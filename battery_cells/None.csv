@@ -1,0 +1,13 @@
+parameter,value,unit
+product name,None,
+technology,0,
+rated capacity,-1,Ah
+nominal voltage,-1,V
+weight,-1,kg
+cost,-1,euro
+maximum continous discharge current,-1,A
+maximum continuous charge current,-1,A
+OCV,"[0, 0]",V
+OCV_SOC,"[0, 0]",
+SOH,"[0, 0]",
+SOH_N,"[0, 0]",
